@@ -1,0 +1,1433 @@
+fileFormatVersion: 2
+guid: 5667d13e9e281e54ca19616eba151c71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8581310236033373008
+    second: spritesheet_1 (2)_0
+  - first:
+      213: -3717569325902272552
+    second: spritesheet_1 (2)_1
+  - first:
+      213: 2205182292296356503
+    second: spritesheet_1 (2)_2
+  - first:
+      213: 6638211010072145123
+    second: spritesheet_1 (2)_3
+  - first:
+      213: -3819060297048836743
+    second: spritesheet_1 (2)_4
+  - first:
+      213: -8468329307329077835
+    second: spritesheet_1 (2)_5
+  - first:
+      213: 6057785263925678593
+    second: spritesheet_1 (2)_6
+  - first:
+      213: 5542506159942854535
+    second: spritesheet_1 (2)_7
+  - first:
+      213: 1261689229552397859
+    second: spritesheet_1 (2)_8
+  - first:
+      213: -4937790804515710211
+    second: spritesheet_1 (2)_9
+  - first:
+      213: 2320531595938883060
+    second: spritesheet_1 (2)_10
+  - first:
+      213: -7332280262297274099
+    second: spritesheet_1 (2)_11
+  - first:
+      213: 763970570809045342
+    second: spritesheet_1 (2)_12
+  - first:
+      213: 6457051635947424271
+    second: spritesheet_1 (2)_13
+  - first:
+      213: 4208573328952730645
+    second: spritesheet_1 (2)_14
+  - first:
+      213: 2642228287656463401
+    second: spritesheet_1 (2)_15
+  - first:
+      213: -8307927879763661914
+    second: spritesheet_1 (2)_16
+  - first:
+      213: -4201568496450437189
+    second: spritesheet_1 (2)_17
+  - first:
+      213: -2812739358704071983
+    second: spritesheet_1 (2)_18
+  - first:
+      213: 2395218038121065823
+    second: spritesheet_1 (2)_19
+  - first:
+      213: -7493356545316199971
+    second: spritesheet_1 (2)_20
+  - first:
+      213: -6229881398344267928
+    second: spritesheet_1 (2)_21
+  - first:
+      213: -8697437099246393105
+    second: spritesheet_1 (2)_22
+  - first:
+      213: -5377750117132366949
+    second: spritesheet_1 (2)_23
+  - first:
+      213: 253826613848851389
+    second: spritesheet_1 (2)_24
+  - first:
+      213: 3183299248256319064
+    second: spritesheet_1 (2)_25
+  - first:
+      213: -5685246153319986231
+    second: spritesheet_1 (2)_26
+  - first:
+      213: -3651207320709024956
+    second: spritesheet_1 (2)_27
+  - first:
+      213: -9155764103284811727
+    second: spritesheet_1 (2)_28
+  - first:
+      213: 2370420861176774313
+    second: spritesheet_1 (2)_29
+  - first:
+      213: 3255748121055860327
+    second: spritesheet_1 (2)_30
+  - first:
+      213: 6856189069974428401
+    second: spritesheet_1 (2)_31
+  - first:
+      213: -4730501471326217402
+    second: spritesheet_1 (2)_32
+  - first:
+      213: -6398519289208754767
+    second: spritesheet_1 (2)_33
+  - first:
+      213: 3935133102048402274
+    second: spritesheet_1 (2)_34
+  - first:
+      213: 2030377293527980198
+    second: spritesheet_1 (2)_35
+  - first:
+      213: 6402614421388774392
+    second: spritesheet_1 (2)_36
+  - first:
+      213: 1909088980031386432
+    second: spritesheet_1 (2)_37
+  - first:
+      213: 977098067288748718
+    second: spritesheet_1 (2)_38
+  - first:
+      213: -3278188490956346689
+    second: spritesheet_1 (2)_39
+  - first:
+      213: -5275377987372172858
+    second: spritesheet_1 (2)_40
+  - first:
+      213: 1673004252903422663
+    second: spritesheet_1 (2)_41
+  - first:
+      213: -4855784889372867762
+    second: spritesheet_1 (2)_42
+  - first:
+      213: 2811452803049653088
+    second: spritesheet_1 (2)_43
+  - first:
+      213: -9036210345299963001
+    second: spritesheet_1 (2)_44
+  - first:
+      213: -3499632356873248013
+    second: spritesheet_1 (2)_45
+  - first:
+      213: 9189301770208254209
+    second: spritesheet_1 (2)_46
+  - first:
+      213: 7761871720997225647
+    second: spritesheet_1 (2)_47
+  - first:
+      213: -1117654304797479787
+    second: spritesheet_1 (2)_48
+  - first:
+      213: -2901252866018394581
+    second: spritesheet_1 (2)_49
+  - first:
+      213: -5535883044264219878
+    second: spritesheet_1 (2)_50
+  - first:
+      213: 6409896951688883428
+    second: spritesheet_1 (2)_51
+  - first:
+      213: 8960704604612909458
+    second: spritesheet_1 (2)_52
+  - first:
+      213: 9099513303641935047
+    second: spritesheet_1 (2)_53
+  - first:
+      213: -5664508594679536337
+    second: spritesheet_1 (2)_54
+  - first:
+      213: 8705940802627557111
+    second: spritesheet_1 (2)_55
+  - first:
+      213: 7096833542582176960
+    second: spritesheet_1 (2)_56
+  - first:
+      213: 2207800609866230111
+    second: spritesheet_1 (2)_57
+  - first:
+      213: 824340443481643712
+    second: spritesheet_1 (2)_58
+  - first:
+      213: 8592890720799665007
+    second: spritesheet_1 (2)_59
+  - first:
+      213: 3267536092499527899
+    second: spritesheet_1 (2)_60
+  - first:
+      213: -5653622018109523914
+    second: spritesheet_1 (2)_61
+  - first:
+      213: -2280137437464341596
+    second: spritesheet_1 (2)_62
+  - first:
+      213: 4120555519191809191
+    second: spritesheet_1 (2)_63
+  - first:
+      213: 8048083949895265096
+    second: spritesheet_1 (2)_64
+  - first:
+      213: -8463680175788807503
+    second: spritesheet_1 (2)_65
+  - first:
+      213: -8082755189901920551
+    second: spritesheet_1 (2)_66
+  - first:
+      213: -5521633463134561509
+    second: spritesheet_1 (2)_67
+  - first:
+      213: -6927171643015027911
+    second: spritesheet_1 (2)_68
+  - first:
+      213: 3330888894734264937
+    second: spritesheet_1 (2)_69
+  - first:
+      213: 4755013377996557649
+    second: spritesheet_1 (2)_70
+  - first:
+      213: 5358295576555102926
+    second: spritesheet_1 (2)_71
+  - first:
+      213: 8311584120443817912
+    second: spritesheet_1 (2)_72
+  - first:
+      213: 4828193806080566861
+    second: spritesheet_1 (2)_73
+  - first:
+      213: 5805496367734446910
+    second: spritesheet_1 (2)_74
+  - first:
+      213: -3935363021740520033
+    second: spritesheet_1 (2)_75
+  - first:
+      213: 2839617828888178456
+    second: spritesheet_1 (2)_76
+  - first:
+      213: -6002109033027954632
+    second: spritesheet_1 (2)_77
+  - first:
+      213: 2576176477672752564
+    second: spritesheet_1 (2)_78
+  - first:
+      213: 99520265779942412
+    second: spritesheet_1 (2)_79
+  - first:
+      213: -6841661402098479737
+    second: spritesheet_1 (2)_80
+  - first:
+      213: 9002306413440505704
+    second: spritesheet_1 (2)_81
+  - first:
+      213: 4928541988275729944
+    second: spritesheet_1 (2)_82
+  - first:
+      213: -5766422570263759699
+    second: spritesheet_1 (2)_83
+  - first:
+      213: 1026245171471153300
+    second: spritesheet_1 (2)_84
+  - first:
+      213: -3464678920188745703
+    second: spritesheet_1 (2)_85
+  - first:
+      213: 1519121209581811872
+    second: spritesheet_1 (2)_86
+  - first:
+      213: -1718424184066615885
+    second: spritesheet_1 (2)_87
+  - first:
+      213: -8030451480034601995
+    second: spritesheet_1 (2)_88
+  - first:
+      213: -8694648713410651301
+    second: spritesheet_1 (2)_89
+  - first:
+      213: -7452217389775720820
+    second: spritesheet_1 (2)_90
+  - first:
+      213: -3624310708824244560
+    second: spritesheet_1 (2)_91
+  - first:
+      213: 300783170795532025
+    second: spritesheet_1 (2)_92
+  - first:
+      213: 8258508666688539888
+    second: spritesheet_1 (2)_93
+  - first:
+      213: -8539203927307639118
+    second: spritesheet_1 (2)_94
+  - first:
+      213: 2387091630809180348
+    second: spritesheet_1 (2)_95
+  - first:
+      213: 1683535558485134133
+    second: spritesheet_1 (2)_96
+  - first:
+      213: -159043911721265005
+    second: spritesheet_1 (2)_97
+  - first:
+      213: 3610242755980507674
+    second: spritesheet_1 (2)_98
+  - first:
+      213: -7274276253018282395
+    second: spritesheet_1 (2)_99
+  - first:
+      213: 6193075742229674837
+    second: spritesheet_1 (2)_100
+  - first:
+      213: 6119975883063064824
+    second: spritesheet_1 (2)_101
+  - first:
+      213: 2820505628751223181
+    second: spritesheet_1 (2)_102
+  - first:
+      213: -9045049833674358508
+    second: spritesheet_1 (2)_103
+  - first:
+      213: -2544415944589171669
+    second: spritesheet_1 (2)_104
+  - first:
+      213: -2341240954701641860
+    second: spritesheet_1 (2)_105
+  - first:
+      213: -2620755690446616301
+    second: spritesheet_1 (2)_106
+  - first:
+      213: 7159751925663727897
+    second: spritesheet_1 (2)_107
+  - first:
+      213: 6119527938050297673
+    second: spritesheet_1 (2)_108
+  - first:
+      213: -4072098516987601645
+    second: spritesheet_1 (2)_109
+  - first:
+      213: 6752861825898412020
+    second: spritesheet_1 (2)_110
+  - first:
+      213: 2507822729925597059
+    second: spritesheet_1 (2)_111
+  - first:
+      213: -5791046830096217115
+    second: spritesheet_1 (2)_112
+  - first:
+      213: 6074924811017486226
+    second: spritesheet_1 (2)_113
+  - first:
+      213: 1101631994294952033
+    second: spritesheet_1 (2)_114
+  - first:
+      213: 5532353057741291055
+    second: spritesheet_1 (2)_115
+  - first:
+      213: -6572791650257653077
+    second: spritesheet_1 (2)_116
+  - first:
+      213: 9022478919418451279
+    second: spritesheet_1 (2)_117
+  - first:
+      213: -1591135265819150421
+    second: spritesheet_1 (2)_118
+  - first:
+      213: 7561794008866984612
+    second: spritesheet_1 (2)_119
+  - first:
+      213: -7385763380465070512
+    second: spritesheet_1 (2)_120
+  - first:
+      213: 9047408210870754272
+    second: spritesheet_1 (2)_121
+  - first:
+      213: -3879437701948681613
+    second: spritesheet_1 (2)_122
+  - first:
+      213: -8658507678098911468
+    second: spritesheet_1 (2)_123
+  - first:
+      213: 8615916406074859287
+    second: spritesheet_1 (2)_124
+  - first:
+      213: 8818554343982967454
+    second: spritesheet_1 (2)_125
+  - first:
+      213: -1695575559219051761
+    second: spritesheet_1 (2)_126
+  - first:
+      213: -49058795783918754
+    second: spritesheet_1 (2)_127
+  - first:
+      213: -4679318486350743646
+    second: spritesheet_1 (2)_128
+  - first:
+      213: -7540079895324793840
+    second: spritesheet_1 (2)_129
+  - first:
+      213: 1104337880590234826
+    second: spritesheet_1 (2)_130
+  - first:
+      213: 5104247093470337793
+    second: spritesheet_1 (2)_131
+  - first:
+      213: 326131625500479650
+    second: spritesheet_1 (2)_132
+  - first:
+      213: -8420306730138195371
+    second: spritesheet_1 (2)_133
+  - first:
+      213: 259291386499480502
+    second: spritesheet_1 (2)_134
+  - first:
+      213: -8571693401349618575
+    second: spritesheet_1 (2)_135
+  - first:
+      213: 8068735350833322705
+    second: spritesheet_1 (2)_136
+  - first:
+      213: -8174400109636307277
+    second: spritesheet_1 (2)_137
+  - first:
+      213: 9166855573811684972
+    second: spritesheet_1 (2)_138
+  - first:
+      213: -477352880287306300
+    second: spritesheet_1 (2)_139
+  - first:
+      213: 8856522907382201049
+    second: spritesheet_1 (2)_140
+  - first:
+      213: 5843683444579397261
+    second: spritesheet_1 (2)_141
+  - first:
+      213: 6520470692785519387
+    second: spritesheet_1 (2)_142
+  - first:
+      213: -5505753709113514323
+    second: spritesheet_1 (2)_143
+  - first:
+      213: 4115267856581703045
+    second: spritesheet_1 (2)_144
+  - first:
+      213: -1683385697252249419
+    second: spritesheet_1 (2)_145
+  - first:
+      213: -4684366603969988679
+    second: spritesheet_1 (2)_146
+  - first:
+      213: 362090347368415130
+    second: spritesheet_1 (2)_147
+  - first:
+      213: -4950332679993785335
+    second: spritesheet_1 (2)_148
+  - first:
+      213: -8425068578772167974
+    second: spritesheet_1 (2)_149
+  - first:
+      213: 8100938411876839499
+    second: spritesheet_1 (2)_150
+  - first:
+      213: 4332081508466283569
+    second: spritesheet_1 (2)_151
+  - first:
+      213: 8195553329480507910
+    second: spritesheet_1 (2)_152
+  - first:
+      213: -5724970138873497730
+    second: spritesheet_1 (2)_153
+  - first:
+      213: 5264330055213159684
+    second: spritesheet_1 (2)_154
+  - first:
+      213: -8584081456758200432
+    second: spritesheet_1 (2)_155
+  - first:
+      213: -7885111999097377003
+    second: spritesheet_1 (2)_156
+  - first:
+      213: 8744273833448946653
+    second: spritesheet_1 (2)_157
+  - first:
+      213: -7575567654674936514
+    second: spritesheet_1 (2)_158
+  - first:
+      213: -6571326025690854651
+    second: spritesheet_1 (2)_159
+  - first:
+      213: 8273359758907976695
+    second: spritesheet_1 (2)_160
+  - first:
+      213: 2953350403834482157
+    second: spritesheet_1 (2)_161
+  - first:
+      213: 713504510094252112
+    second: spritesheet_1 (2)_162
+  - first:
+      213: -6821380871995830243
+    second: spritesheet_1 (2)_163
+  - first:
+      213: -1525476364314251608
+    second: spritesheet_1 (2)_164
+  - first:
+      213: -4374129286248680170
+    second: spritesheet_1 (2)_165
+  - first:
+      213: -4054236708007747657
+    second: spritesheet_1 (2)_166
+  - first:
+      213: 164831528148640991
+    second: spritesheet_1 (2)_167
+  - first:
+      213: 6443299089304039586
+    second: spritesheet_1 (2)_168
+  - first:
+      213: 477655011919774323
+    second: spritesheet_1 (2)_169
+  - first:
+      213: -7537612843527735102
+    second: spritesheet_1 (2)_170
+  - first:
+      213: -3613603978094503306
+    second: spritesheet_1 (2)_171
+  - first:
+      213: -9084180175775186218
+    second: spritesheet_1 (2)_172
+  - first:
+      213: 2124177886177637789
+    second: spritesheet_1 (2)_173
+  - first:
+      213: 2085638433262306613
+    second: spritesheet_1 (2)_174
+  - first:
+      213: 5407303337666739405
+    second: spritesheet_1 (2)_175
+  - first:
+      213: -2067302692843485539
+    second: spritesheet_1 (2)_176
+  - first:
+      213: -8827487963464824335
+    second: spritesheet_1 (2)_177
+  - first:
+      213: 9017111194691304579
+    second: spritesheet_1 (2)_178
+  - first:
+      213: 8895995360536806211
+    second: spritesheet_1 (2)_179
+  - first:
+      213: -8030851106140093281
+    second: spritesheet_1 (2)_180
+  - first:
+      213: 6438138118221585958
+    second: spritesheet_1 (2)_181
+  - first:
+      213: 7045107671763370699
+    second: spritesheet_1 (2)_182
+  - first:
+      213: -748044159508678681
+    second: spritesheet_1 (2)_183
+  - first:
+      213: -1654994332751105473
+    second: spritesheet_1 (2)_184
+  - first:
+      213: 6241206901724901053
+    second: spritesheet_1 (2)_185
+  - first:
+      213: -3469017270774167923
+    second: spritesheet_1 (2)_186
+  - first:
+      213: -6831124160869274413
+    second: spritesheet_1 (2)_187
+  - first:
+      213: -3953449739127629204
+    second: spritesheet_1 (2)_188
+  - first:
+      213: -2070540942515450355
+    second: spritesheet_1 (2)_189
+  - first:
+      213: -3611305205157026475
+    second: spritesheet_1 (2)_190
+  - first:
+      213: 4703061761575925692
+    second: spritesheet_1 (2)_191
+  - first:
+      213: 6187652715700733128
+    second: spritesheet_1 (2)_192
+  - first:
+      213: 748498683799319656
+    second: spritesheet_1 (2)_193
+  - first:
+      213: 3619808453980785083
+    second: spritesheet_1 (2)_194
+  - first:
+      213: -1155322608250808110
+    second: spritesheet_1 (2)_195
+  - first:
+      213: 6477746814827780287
+    second: spritesheet_1 (2)_196
+  - first:
+      213: -480078473689362035
+    second: spritesheet_1 (2)_197
+  - first:
+      213: -6879157568415507121
+    second: spritesheet_1 (2)_198
+  - first:
+      213: 3538129218790330790
+    second: spritesheet_1 (2)_199
+  - first:
+      213: 8759630252536522198
+    second: spritesheet_1 (2)_200
+  - first:
+      213: 8295969516375606782
+    second: spritesheet_1 (2)_201
+  - first:
+      213: -7524411583656684044
+    second: spritesheet_1 (2)_202
+  - first:
+      213: 8999119661584188323
+    second: spritesheet_1 (2)_203
+  - first:
+      213: 4147425428079699039
+    second: spritesheet_1 (2)_204
+  - first:
+      213: -9121654267801259711
+    second: spritesheet_1 (2)_205
+  - first:
+      213: 47249225305549505
+    second: spritesheet_1 (2)_206
+  - first:
+      213: 2435664180354731888
+    second: spritesheet_1 (2)_207
+  - first:
+      213: 7032345847467749778
+    second: spritesheet_1 (2)_208
+  - first:
+      213: -3628852391732848628
+    second: spritesheet_1 (2)_209
+  - first:
+      213: 1155403391817757448
+    second: spritesheet_1 (2)_210
+  - first:
+      213: -8369621485430017796
+    second: spritesheet_1 (2)_211
+  - first:
+      213: -7845523764554123244
+    second: spritesheet_1 (2)_212
+  - first:
+      213: 6919065944472912031
+    second: spritesheet_1 (2)_213
+  - first:
+      213: 224178181845247910
+    second: spritesheet_1 (2)_214
+  - first:
+      213: 4821866920423775937
+    second: spritesheet_1 (2)_215
+  - first:
+      213: 7974068022164646282
+    second: spritesheet_1 (2)_216
+  - first:
+      213: -1228873542385918300
+    second: spritesheet_1 (2)_217
+  - first:
+      213: -3926945146107845179
+    second: spritesheet_1 (2)_218
+  - first:
+      213: -4525807471397745081
+    second: spritesheet_1 (2)_219
+  - first:
+      213: -1579148593699446440
+    second: spritesheet_1 (2)_220
+  - first:
+      213: -7346846580554356375
+    second: spritesheet_1 (2)_221
+  - first:
+      213: 7158385235351679439
+    second: spritesheet_1 (2)_222
+  - first:
+      213: 1541646610176070809
+    second: spritesheet_1 (2)_223
+  - first:
+      213: 1752983902382643250
+    second: spritesheet_1 (2)_224
+  - first:
+      213: 2875359939196744289
+    second: spritesheet_1 (2)_225
+  - first:
+      213: -5637647063927235833
+    second: spritesheet_1 (2)_226
+  - first:
+      213: 2474957754243208476
+    second: spritesheet_1 (2)_227
+  - first:
+      213: -207325693517295016
+    second: spritesheet_1 (2)_228
+  - first:
+      213: -7180051947308753417
+    second: spritesheet_1 (2)_229
+  - first:
+      213: 6633399648887073200
+    second: spritesheet_1 (2)_230
+  - first:
+      213: -3459299615179413907
+    second: spritesheet_1 (2)_231
+  - first:
+      213: 4001339595445651883
+    second: spritesheet_1 (2)_232
+  - first:
+      213: -250243909709456948
+    second: spritesheet_1 (2)_233
+  - first:
+      213: 8665385865117889674
+    second: spritesheet_1 (2)_234
+  - first:
+      213: 3513908969531337792
+    second: spritesheet_1 (2)_235
+  - first:
+      213: -3488790940430018683
+    second: spritesheet_1 (2)_236
+  - first:
+      213: -3443125317382458022
+    second: spritesheet_1 (2)_237
+  - first:
+      213: -4522213233464287281
+    second: spritesheet_1 (2)_238
+  - first:
+      213: -7005971893986208749
+    second: spritesheet_1 (2)_239
+  - first:
+      213: -4988544321976228110
+    second: spritesheet_1 (2)_240
+  - first:
+      213: 7481754192713692085
+    second: spritesheet_1 (2)_241
+  - first:
+      213: 4715773656784562086
+    second: spritesheet_1 (2)_242
+  - first:
+      213: 2869576897993725627
+    second: spritesheet_1 (2)_243
+  - first:
+      213: -73993913701766817
+    second: spritesheet_1 (2)_244
+  - first:
+      213: 4769311986446770883
+    second: spritesheet_1 (2)_245
+  - first:
+      213: -6419048892794834100
+    second: spritesheet_1 (2)_246
+  - first:
+      213: -6888352538946196018
+    second: spritesheet_1 (2)_247
+  - first:
+      213: 1754570159253941456
+    second: spritesheet_1 (2)_248
+  - first:
+      213: 3342891550740637357
+    second: spritesheet_1 (2)_249
+  - first:
+      213: -7544707494279233989
+    second: spritesheet_1 (2)_250
+  - first:
+      213: -2199345600117996361
+    second: spritesheet_1 (2)_251
+  - first:
+      213: -6211001052284239638
+    second: spritesheet_1 (2)_252
+  - first:
+      213: -6915212666205103649
+    second: spritesheet_1 (2)_253
+  - first:
+      213: -2955553390456995585
+    second: spritesheet_1 (2)_254
+  - first:
+      213: -4514446472264527005
+    second: spritesheet_1 (2)_255
+  - first:
+      213: -8557525087148205456
+    second: spritesheet_1 (2)_256
+  - first:
+      213: 3986790494666189473
+    second: spritesheet_1 (2)_257
+  - first:
+      213: -7114130059251245473
+    second: spritesheet_1 (2)_258
+  - first:
+      213: 3767509837982876075
+    second: spritesheet_1 (2)_259
+  - first:
+      213: -4431238993631454670
+    second: spritesheet_1 (2)_260
+  - first:
+      213: 8063279529021473058
+    second: spritesheet_1 (2)_261
+  - first:
+      213: -2891853975280119150
+    second: spritesheet_1 (2)_262
+  - first:
+      213: -8317561991863160101
+    second: spritesheet_1 (2)_263
+  - first:
+      213: -6378586949147831742
+    second: spritesheet_1 (2)_264
+  - first:
+      213: -9034586887896942615
+    second: spritesheet_1 (2)_265
+  - first:
+      213: 8723020557055882391
+    second: spritesheet_1 (2)_266
+  - first:
+      213: 2003692345979291827
+    second: spritesheet_1 (2)_267
+  - first:
+      213: -8094461541447625778
+    second: spritesheet_1 (2)_268
+  - first:
+      213: -8045678479387689458
+    second: spritesheet_1 (2)_269
+  - first:
+      213: 1154882024147359835
+    second: spritesheet_1 (2)_270
+  - first:
+      213: -4155348790390304693
+    second: spritesheet_1 (2)_271
+  - first:
+      213: -898999774535154711
+    second: spritesheet_1 (2)_272
+  - first:
+      213: 4123461186395568848
+    second: spritesheet_1 (2)_273
+  - first:
+      213: 5140941965854705382
+    second: spritesheet_1 (2)_274
+  - first:
+      213: -7106589110451070180
+    second: spritesheet_1 (2)_275
+  - first:
+      213: 5310787619641937171
+    second: spritesheet_1 (2)_276
+  - first:
+      213: 4613538650650044384
+    second: spritesheet_1 (2)_277
+  - first:
+      213: 985414542157728293
+    second: spritesheet_1 (2)_278
+  - first:
+      213: -9172449922726290687
+    second: spritesheet_1 (2)_279
+  - first:
+      213: 6846953623521112493
+    second: spritesheet_1 (2)_280
+  - first:
+      213: -12379626252980239
+    second: spritesheet_1 (2)_281
+  - first:
+      213: -2736965322278765947
+    second: spritesheet_1 (2)_282
+  - first:
+      213: 471478639224176748
+    second: spritesheet_1 (2)_283
+  - first:
+      213: 1836265834813304420
+    second: spritesheet_1 (2)_284
+  - first:
+      213: -8542418709558124644
+    second: spritesheet_1 (2)_285
+  - first:
+      213: -866940200122986663
+    second: spritesheet_1 (2)_286
+  - first:
+      213: -9160933695571292792
+    second: spritesheet_1 (2)_287
+  - first:
+      213: -7980878682742005870
+    second: spritesheet_1 (2)_288
+  - first:
+      213: -2715399453214693077
+    second: spritesheet_1 (2)_289
+  - first:
+      213: 2906175495864622636
+    second: spritesheet_1 (2)_290
+  - first:
+      213: 5410109711773612514
+    second: spritesheet_1 (2)_291
+  - first:
+      213: -176578725713909972
+    second: spritesheet_1 (2)_292
+  - first:
+      213: -4678159274662240814
+    second: spritesheet_1 (2)_293
+  - first:
+      213: 4897600725127239490
+    second: spritesheet_1 (2)_294
+  - first:
+      213: -5065494854630791054
+    second: spritesheet_1 (2)_295
+  - first:
+      213: 4505101958871137056
+    second: spritesheet_1 (2)_296
+  - first:
+      213: 386158992416508188
+    second: spritesheet_1 (2)_297
+  - first:
+      213: 1481649254178046566
+    second: spritesheet_1 (2)_298
+  - first:
+      213: 4483052215657220529
+    second: spritesheet_1 (2)_299
+  - first:
+      213: -7194805510451717545
+    second: spritesheet_1 (2)_300
+  - first:
+      213: -6686885150264520700
+    second: spritesheet_1 (2)_301
+  - first:
+      213: 2557895937066482888
+    second: spritesheet_1 (2)_302
+  - first:
+      213: 5955799021866347549
+    second: spritesheet_1 (2)_303
+  - first:
+      213: -6581747948085452268
+    second: spritesheet_1 (2)_304
+  - first:
+      213: 5817053645288794716
+    second: spritesheet_1 (2)_305
+  - first:
+      213: 533460170189105736
+    second: spritesheet_1 (2)_306
+  - first:
+      213: -6744786081205120865
+    second: spritesheet_1 (2)_307
+  - first:
+      213: 891177681223678349
+    second: spritesheet_1 (2)_308
+  - first:
+      213: -3360657079633597019
+    second: spritesheet_1 (2)_309
+  - first:
+      213: 1000225476574289828
+    second: spritesheet_1 (2)_310
+  - first:
+      213: -2760873901497997798
+    second: spritesheet_1 (2)_311
+  - first:
+      213: 8153830625129591203
+    second: spritesheet_1 (2)_312
+  - first:
+      213: 7771885049057960081
+    second: spritesheet_1 (2)_313
+  - first:
+      213: -6409253124004021625
+    second: spritesheet_1 (2)_314
+  - first:
+      213: -1846580204786298724
+    second: spritesheet_1 (2)_315
+  - first:
+      213: 7398055360589037274
+    second: spritesheet_1 (2)_316
+  - first:
+      213: -5830205803287476245
+    second: spritesheet_1 (2)_317
+  - first:
+      213: -4781440606120426989
+    second: spritesheet_1 (2)_318
+  - first:
+      213: -2328841652779534013
+    second: spritesheet_1 (2)_319
+  - first:
+      213: -5207779645551799566
+    second: spritesheet_1 (2)_320
+  - first:
+      213: -7863422374749221154
+    second: spritesheet_1 (2)_321
+  - first:
+      213: -754558309501705359
+    second: spritesheet_1 (2)_322
+  - first:
+      213: -3342259315168144413
+    second: spritesheet_1 (2)_323
+  - first:
+      213: 9196389143781622395
+    second: spritesheet_1 (2)_324
+  - first:
+      213: 2992730545604892984
+    second: spritesheet_1 (2)_325
+  - first:
+      213: -2513376873009211635
+    second: spritesheet_1 (2)_326
+  - first:
+      213: 2755840082863460264
+    second: spritesheet_1 (2)_327
+  - first:
+      213: -6730012348258586688
+    second: spritesheet_1 (2)_328
+  - first:
+      213: -530442158310173033
+    second: spritesheet_1 (2)_329
+  - first:
+      213: 4667796420378201322
+    second: spritesheet_1 (2)_330
+  - first:
+      213: 3764890740097291212
+    second: spritesheet_1 (2)_331
+  - first:
+      213: -6265701675396816363
+    second: spritesheet_1 (2)_332
+  - first:
+      213: 1361535365184974197
+    second: spritesheet_1 (2)_333
+  - first:
+      213: -6684552267125753812
+    second: spritesheet_1 (2)_334
+  - first:
+      213: -4972064246390265755
+    second: spritesheet_1 (2)_335
+  - first:
+      213: 8117641033189402090
+    second: spritesheet_1 (2)_336
+  - first:
+      213: 4193630320443457892
+    second: spritesheet_1 (2)_337
+  - first:
+      213: -1582093579278009721
+    second: spritesheet_1 (2)_338
+  - first:
+      213: -5636026353264064625
+    second: spritesheet_1 (2)_339
+  - first:
+      213: -959581383358419234
+    second: spritesheet_1 (2)_340
+  - first:
+      213: -8131171203396985453
+    second: spritesheet_1 (2)_341
+  - first:
+      213: 7655277531738344121
+    second: spritesheet_1 (2)_342
+  - first:
+      213: 7374026358014610948
+    second: spritesheet_1 (2)_343
+  - first:
+      213: -8123196876488347228
+    second: spritesheet_1 (2)_344
+  - first:
+      213: 94705678334028555
+    second: spritesheet_1 (2)_345
+  - first:
+      213: 9020638099613484605
+    second: spritesheet_1 (2)_346
+  - first:
+      213: 8276857318098695870
+    second: spritesheet_1 (2)_347
+  - first:
+      213: -6317390191042887080
+    second: spritesheet_1 (2)_348
+  - first:
+      213: 6162539530986588651
+    second: spritesheet_1 (2)_349
+  - first:
+      213: 4796551512637304838
+    second: spritesheet_1 (2)_350
+  - first:
+      213: -3470488194634685879
+    second: spritesheet_1 (2)_351
+  - first:
+      213: -2268384249024050423
+    second: spritesheet_1 (2)_352
+  - first:
+      213: 3862819828195149316
+    second: spritesheet_1 (2)_353
+  - first:
+      213: -139975226586338855
+    second: spritesheet_1 (2)_354
+  - first:
+      213: 4850000031391829783
+    second: spritesheet_1 (2)_355
+  - first:
+      213: 2027535746916662515
+    second: spritesheet_1 (2)_356
+  - first:
+      213: -7260475551203375276
+    second: spritesheet_1 (2)_357
+  - first:
+      213: -5779030696331132454
+    second: spritesheet_1 (2)_358
+  - first:
+      213: 8177964696452582002
+    second: spritesheet_1 (2)_359
+  - first:
+      213: 1331660840706030658
+    second: spritesheet_1 (2)_360
+  - first:
+      213: 2388591593695565849
+    second: spritesheet_1 (2)_361
+  - first:
+      213: -6773704868168819002
+    second: spritesheet_1 (2)_362
+  - first:
+      213: -4659428668704018679
+    second: spritesheet_1 (2)_363
+  - first:
+      213: 1390262683116137134
+    second: spritesheet_1 (2)_364
+  - first:
+      213: -1278127075335082407
+    second: spritesheet_1 (2)_365
+  - first:
+      213: 7925762096737355241
+    second: spritesheet_1 (2)_366
+  - first:
+      213: -5091206063329333763
+    second: spritesheet_1 (2)_367
+  - first:
+      213: 8192738187913009786
+    second: spritesheet_1 (2)_368
+  - first:
+      213: 9195524475537342884
+    second: spritesheet_1 (2)_369
+  - first:
+      213: 5042926686134257137
+    second: spritesheet_1 (2)_370
+  - first:
+      213: -9005899664458152345
+    second: spritesheet_1 (2)_371
+  - first:
+      213: 6914070464851665725
+    second: spritesheet_1 (2)_372
+  - first:
+      213: 5928570450874261263
+    second: spritesheet_1 (2)_373
+  - first:
+      213: -8873401424564847001
+    second: spritesheet_1 (2)_374
+  - first:
+      213: -3845638098500779677
+    second: spritesheet_1 (2)_375
+  - first:
+      213: 8591576096484559069
+    second: spritesheet_1 (2)_376
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_1 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 1043
+        height: 1076
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff32463ec749aac40902e3c355ba84aa
+      internalID: -1983765662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_1 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 186
+        width: 1105
+        height: 1071
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68785301a1f0e444be7392500d02f43
+      internalID: 15373097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_1 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 187
+        width: 937
+        height: 1093
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f989ac4fdce2d47b86b4ba0c804d18
+      internalID: 9298609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_1 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 194
+        width: 936
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56cc5cad168f1945a7fd6aad3f2d517
+      internalID: 1153342346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_1 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 181
+        width: 1045
+        height: 1074
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1715040dda40b44e9640edfaedd5287
+      internalID: -1099923481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_1 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 175
+        width: 1099
+        height: 1105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e3c89861abb824483d7140d1402b1e
+      internalID: -978733459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_1 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 6276
+        y: 210
+        width: 1188
+        height: 1070
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fab4174ff523a447b07b88e84499603
+      internalID: 854567174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_1 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 7515
+        y: 194
+        width: 951
+        height: 1086
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0045801b0071a41925b59399a148d3
+      internalID: 2126643698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4f2622feb7472c47b83644d63ae4305
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spritesheet_1 (2)_0: -1983765662
+      spritesheet_1 (2)_1: 15373097
+      spritesheet_1 (2)_2: 9298609
+      spritesheet_1 (2)_3: 1153342346
+      spritesheet_1 (2)_4: -1099923481
+      spritesheet_1 (2)_5: -978733459
+      spritesheet_1 (2)_6: 854567174
+      spritesheet_1 (2)_65: -1989337138
+      spritesheet_1 (2)_7: 2126643698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
